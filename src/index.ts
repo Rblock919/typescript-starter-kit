@@ -1,1 +1,1 @@
-console.log("Don't forget to use your sed11q!");
+console.log('Do some typescript magic!');
